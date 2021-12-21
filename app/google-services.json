@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273442724402",
+    "project_id": "fb-login-test-45d49",
+    "storage_bucket": "fb-login-test-45d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273442724402:android:e975b8a42c17a04c44fa2b",
+        "android_client_info": {
+          "package_name": "com.androidlearning.dietmemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273442724402-12nuu7f7u7siqo8gpcd81td84o2pvv0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxaIpkG9snn2EO2mM7H4Qlyj8IxVO1oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273442724402-12nuu7f7u7siqo8gpcd81td84o2pvv0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
